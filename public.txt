@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+This is public file
+>>>>>>> e4161fa0c5f104d4fcb23060d505d2c9aae19b46
