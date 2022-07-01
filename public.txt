@@ -1,0 +1,6 @@
+<html>
+<head>
+<script>
+function validateEmail(inputText)
+{
+var mailformat=
