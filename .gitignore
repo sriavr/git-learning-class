@@ -1,4 +1,8 @@
 private.txt
+<<<<<<< HEAD
+=======
+
+>>>>>>> e4161fa0c5f104d4fcb23060d505d2c9aae19b46
 # Compiled class file
 *.class
 
@@ -22,3 +26,4 @@ private.txt
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+private.txt
